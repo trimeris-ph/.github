@@ -1,2 +1,3 @@
-# .github
-README.md for Trimeris.ph
+# TRIMERIS.ph
+
+Placeholder text. Will add more details later.
